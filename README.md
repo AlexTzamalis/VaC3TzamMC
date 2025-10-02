@@ -14,7 +14,7 @@
 ### 💻 About Me
 - 🎓 Studying **Computer Science** at the **University of East London** via Metropolitan College, Greece  
 - 🌍 Based in **Greece**  
-- 🖥️ **Owner & Developer** of [**Minetube.cc**](https://minetube.cc)  
+- 🖥️ **Owner, Developer and Plugin Configurator** of [**Minetube.cc**](https://minetube.cc)  
 - ✉️ Contact: **alextzamalis16@gmail.com**  
 
 ---
@@ -28,13 +28,13 @@
 
 ### 🚀 What I’m Working On
 A lot has been happening **behind closed doors** with plugin development and the Minetube network.  
-Expect new projects, optimized Minecraft plugins, and future releases soon.  
+Expect new projects, optimized Minecraft plugins, and future releases soon. aswell as open source content  
 
 ---
 
 ### 📫 Connect With Me
 - 🌐 Website: [Minetube.cc](https://minetube.cc)  
-- 💬 Discord: [Join our community](https://discord.gg/YOUR-DISCORD-INVITE)  
+- 💬 Discord: [Join our community](https://discord.gg/https://discord.gg/2cP3ysWG)  
 - 📧 Email: **alextzamalis16@gmail.com**  
 
 ---
