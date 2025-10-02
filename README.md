@@ -14,7 +14,7 @@
 ### 💻 About Me
 - 🎓 Studying **Computer Science** at the **University of East London** via Metropolitan College, Greece  
 - 🌍 Based in **Greece**  
-- 🖥️ **Owner & Developer** of [**Minetube.cc**](https://minetube.cc)  
+- 🖥️ **Owner, Developer & Configurator** of [**Minetube.cc**](https://minetube.cc)  
 - ✉️ Contact: **alextzamalis16@gmail.com**  
 
 ---
