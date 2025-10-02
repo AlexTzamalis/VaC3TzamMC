@@ -1,36 +1,41 @@
 # 👋 Hey, I’m Alex (a.k.a. VaC3Tzam)
 
+<div align="center">
+
+![Owner](https://img.shields.io/badge/Owner-Minetube.cc-orange)
+![Location](https://img.shields.io/badge/Location-Greece-blue)
+![University](https://img.shields.io/badge/UEL-Computer%20Science-red)
+![Languages](https://img.shields.io/badge/Java%20%7C%20Python%20%7C%20Web%20Dev-green)
+
+</div>
+
+---
+
 ### 💻 About Me
 - 🎓 Studying **Computer Science** at the **University of East London** via Metropolitan College, Greece  
 - 🌍 Based in **Greece**  
-- 🖥️ Founder & Developer of **[Minetube.cc](https://minetube.cc)** – Minecraft network & projects  
-- ✉️ Contact me: **alextzamalis16@gmail.com**  
+- 🖥️ **Owner & Developer** of [**Minetube.cc**](https://minetube.cc)  
+- ✉️ Contact: **alextzamalis16@gmail.com**  
 
 ---
 
 ### 🔧 Tech Stack
-- **Languages & Tools**  
-  - Java (Gradle, Paper/Purpur plugin development)  
-  - Python  
-  - HTML / CSS / JavaScript  
-- **Current Focus**  
-  - Building scalable Minecraft plugins  
-  - Expanding Minetube.cc  
-  - Growing as a full-stack & systems developer  
+- **Java** (Gradle, Paper/Purpur plugin development)  
+- **Python**  
+- **Web**: HTML / CSS / JavaScript  
+
+---
+
+### 🚀 What I’m Working On
+A lot has been happening **behind closed doors** with plugin development and the Minetube network.  
+Expect new projects, optimized Minecraft plugins, and future releases soon.  
 
 ---
 
 ### 📫 Connect With Me
 - 🌐 Website: [Minetube.cc](https://minetube.cc)  
-- 💬 Discord: [Join the Minetube Community](https://discord.gg/YOUR-DISCORD-INVITE)  
+- 💬 Discord: [Join our community](https://discord.gg/YOUR-DISCORD-INVITE)  
 - 📧 Email: **alextzamalis16@gmail.com**  
-
----
-
-### ⚡ Fun Facts
-- Big fan of building **from scratch** rather than copy-pasting.  
-- Love optimizing performance in games & server-side software.  
-- Still convinced **Windows > Linux** for daily driving 😉.  
 
 ---
 
